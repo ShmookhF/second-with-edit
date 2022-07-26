@@ -80,7 +80,7 @@ $ roslaunch robot_Arm_pkg check_motors_gazebo.launch
 
 ```
  
-## my results  
+## my results ## 
 <![Screenshot from 2022-07-25 15-47-56](https://user-images.githubusercontent.com/108955178/180866447-62f5f458-b5a5-4b4b-ba3d-8b65f9bd36f7.png)
 >
 <![Screenshot from 2022-07-25 15-43-10](https://user-images.githubusercontent.com/108955178/180866667-983bbde7-f404-4666-a365-dcc30d400856.png)
